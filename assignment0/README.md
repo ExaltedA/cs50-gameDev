@@ -4,8 +4,7 @@ GD50 2020
     Pong Remake
     -- Main Program --
     Modified by: Yessenturov Aldiyar
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    aldie1741@gmail.com
     Originally programmed by Atari in 1972. Features two
     paddles, controlled by players, with the goal of getting
     the ball past your opponent's edge. First to 10 points wins.
